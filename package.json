@@ -1,0 +1,26 @@
+{
+  "name": "nodespider",
+  "version": "1.0.0",
+  "description": "node spider",
+  "main": "spider.js",
+  "scripts": {
+    "test": "node ./spider.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barefootChild/nodeSpider.git"
+  },
+  "keywords": [
+    "node",
+    "spider"
+  ],
+  "author": "zys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barefootChild/nodeSpider/issues"
+  },
+  "homepage": "https://github.com/barefootChild/nodeSpider#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  }
+}
